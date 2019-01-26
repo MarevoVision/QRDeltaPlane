@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 0ab1cd9f5cf48d648a13d1f794e566d0
+timeCreated: 1542710028
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body
+    100002: body_1
+    100004: body_2
+    100006: face
+    100008: FLY
+    100010: //RootNode
+    100012: FLY_BLACK
+    100014: FLY_BLUE
+    100016: FLY_RED
+    100018: FLY_WHITE
+    100020: head
+    100022: helm
+    100024: hend
+    100026: VINT
+    400000: body
+    400002: body_1
+    400004: body_2
+    400006: face
+    400008: FLY
+    400010: //RootNode
+    400012: FLY_BLACK
+    400014: FLY_BLUE
+    400016: FLY_RED
+    400018: FLY_WHITE
+    400020: head
+    400022: helm
+    400024: hend
+    400026: VINT
+    2300000: body_1
+    2300002: body_2
+    2300004: face
+    2300006: FLY_BLACK
+    2300008: FLY_BLUE
+    2300010: FLY_RED
+    2300012: FLY_WHITE
+    2300014: head
+    2300016: helm
+    2300018: hend
+    2300020: VINT
+    3300000: body_1
+    3300002: body_2
+    3300004: face
+    3300006: FLY_BLACK
+    3300008: FLY_BLUE
+    3300010: FLY_RED
+    3300012: FLY_WHITE
+    3300014: head
+    3300016: helm
+    3300018: hend
+    3300020: VINT
+    4300000: body_2
+    4300002: body_1
+    4300004: hend
+    4300006: head
+    4300008: helm
+    4300010: face
+    4300012: VINT
+    4300014: FLY_WHITE
+    4300016: FLY_RED
+    4300018: FLY_BLUE
+    4300020: FLY_BLACK
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK
+    second: {fileID: 2100000, guid: 27415cf478cfa6c4591be831b1656162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLUE
+    second: {fileID: 2100000, guid: eb4aea8db6d2fdb4a838945317cb48eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FACE
+    second: {fileID: 2100000, guid: baf3f826f241a8943aa4037b4c269fc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ORANGE
+    second: {fileID: 2100000, guid: 6e3bc70527dfe5c42b740a530d127188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RED
+    second: {fileID: 2100000, guid: ac43cc0b014e7e442a4967efaf5e293e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WHITE
+    second: {fileID: 2100000, guid: 617c826d580869740a730b3b8c63116e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
