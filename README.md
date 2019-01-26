@@ -1,5 +1,5 @@
 # QRDeltaPlane
-![QRDeltaPlane icon](https://github.com/MarevoVision/QRDeltaPlane/blob/master/QRDeltaPlane-icon_github.png?raw=true)
+![QRDeltaPlane icon](https://github.com/MarevoVision/QRDeltaPlane/blob/master/QRDeltaPlane-icon-github.png?raw=true)
 
 QRDeltaPlane.
 
